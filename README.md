@@ -11,3 +11,5 @@ In this project I learned the various steps of the machine learning process alon
 <img width="250" alt="Screen Shot 2020-04-26 at 12 37 08 AM" src="https://user-images.githubusercontent.com/57355719/80292306-1657a000-8756-11ea-854f-f1e609a9c082.png">
 
 ### Classification: 
+<img width="1421" alt="Screen Shot 2020-04-26 at 12 45 07 AM" src="https://user-images.githubusercontent.com/57355719/80292476-40f62880-8757-11ea-8f13-f6934211d0af.png">
+
